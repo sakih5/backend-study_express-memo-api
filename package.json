@@ -1,0 +1,23 @@
+{
+  "name": "backend-study_express-memo-api",
+  "version": "1.0.0",
+  "description": "Express(Node.js)を使ったシンプルなメモ管理APIを作成。",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sakih5/backend-study_express-memo-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sakih5/backend-study_express-memo-api/issues"
+  },
+  "homepage": "https://github.com/sakih5/backend-study_express-memo-api#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
